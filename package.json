@@ -87,7 +87,7 @@
     "@types/events": "1.2.0",
     "@types/history": "4.6.2",
     "@types/html2canvas": "0.0.33",
-    "@types/jest": "22.2.3",
+    "@types/jest": "26.0.14",
     "@types/lodash": "4.14.107",
     "@types/moment-timezone": "0.5.4",
     "@types/node-hid": "0.7.0",
